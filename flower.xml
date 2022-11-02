@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<flowers>
+    <flower stem_color="Зеленый_1" leaf_color="Зеленый_2" average_size="80">
+        <name>Растения_01</name>
+        <soil>подзолистая</soil>
+        <origin>место происхождения_01</origin>
+        <multiplying>листьями</multiplying>
+    </flower>
+
+    <flower stem_color="Оранжевый" leaf_color="Салатовый" average_size="30">
+        <name>Растения_02</name>
+        <soil>грунтовая</soil>
+        <origin>место происхождения_02</origin>
+        <multiplying>черенками</multiplying>
+    </flower>
+
+    <flower stem_color="Салатовый" leaf_color="Красные" average_size="20">
+        <name>Растения_03</name>
+        <soil>дерново-подзолистая</soil>
+        <origin>место происхождения_03</origin>
+        <multiplying>семенами</multiplying>
+    </flower>
+
+    <flower stem_color="Салатовый" leaf_color="Красные" average_size="20">
+        <name>Растения_04</name>
+        <soil>дерново-подзолистая</soil>
+        <origin>место происхождения_04</origin>
+        <multiplying>семенами</multiplying>
+    </flower>
+</flowers>

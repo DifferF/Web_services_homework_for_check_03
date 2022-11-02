@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flowers>
+    <flower stem_color="Зеленый_1">
+        <average_size>10</average_size>
+        <leaf_color>Зеленый_2</leaf_color>
+        <multiplying>листьями</multiplying>
+        <name>Растения_01</name>
+        <origin>место происхождения_01</origin>
+        <soil>подзолистая</soil>
+    </flower>
+    <flower stem_color="Зеленый_2">
+        <average_size>20</average_size>
+        <leaf_color>Зеленый_2</leaf_color>
+        <multiplying>листьями_2</multiplying>
+        <name>Растения_02</name>
+        <origin>место происхождения_02</origin>
+        <soil>подзолистая_2</soil>
+    </flower>
+</flowers>
